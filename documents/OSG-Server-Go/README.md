@@ -1,14 +1,14 @@
 # OSG-Server-Go 文档
 
-- [框架介绍](#framework-introduction)
-	- [核心组件](#the-core-component)
-	- [多服示例](#the-servers-demo)
-	- [Protobuf](#the-protobuf-style)
-- [Go代码风格](#go-coding-style)
-	- [登陆流程](#login-process)
-- [Lua代码风格](#lua-coding-style)
-	- [战斗流程](#fighting-process)
-- [Js代码风格](#js-coding-style)
+- [框架介绍](#框架介绍)
+	- [核心组件](#核心组件)
+	- [多服示例](#多服示例)
+	- [Protobuf](#protobuf)
+- [Go代码风格](#go代码风格)
+	- [登陆流程](#登陆流程)
+- [Lua代码风格](#lua代码风格)
+	- [战斗流程](#战斗流程)
+- [Js代码风格](#js代码风格)
 
 ## 框架介绍
 Framework introduction
